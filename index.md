@@ -228,7 +228,7 @@ The <span class='file'>\_site</span>) folder is recreated each time you start Je
 
 In the <span class='app'>Atom</span> <span class='tab'>Project</span> pan, the files and folders in <span class='file'>.gitignore</span> will change color, indicating that they are ignored by git.
 
-As the file and the folder were already in the GitHub.com repository, I had to remove them 'manually', also using the terminal. Deleting the files are folders is easier in either <span class='app'>Finder</span> or <span class='app'>Atom</span>, but you can also do it using the <span class='app'>Terminal</span>:
+As the file and the folder were already in the GitHub.com repository, I had to remove them 'manually' from git using the <span class='app'>Terminal</span>:
 
 <span class='terminal'>git rm --cached \_drafts/'filename'</span>
 
