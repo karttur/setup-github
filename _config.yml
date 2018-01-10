@@ -1,0 +1,4 @@
+name: My first GitHub page
+markdown: kramdown
+rouge: true
+baseurl: ""
