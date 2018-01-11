@@ -26,6 +26,10 @@ To use GitHub for publishing web-pages, all you have to do is to create a specia
 
 GitHub provides a special application, Jekyll for creating web pages using markdown. This blog will go through setting up GitHub, publishing a static html file, and creating and publishing markdown files using Jekyll. How to install Jekyll and the text editor Atom (for writing markdown file), is the topic of the [previous blog](/setup-blog/2017/12/21/setup-blog-tools.html).
 
+My [next blog](https://karttur.github.io/setup-theme-blog/index.html) covers using a more rich template Theme for Jekyll.
+
+If you want to download the complete Jekyll setup for this blog it is available as a [GitHub repository](https://github.com/karttur/setup-github/tree/gh-pages).
+
 ## Setup GitHub
 
 This blog uses the [GitHub desktop.app](https://desktop.github.com/) for setting up a GitHub.com account, and managing and publishing GitHub pages. Alternatively it is also possible to set up your account directly on GitHub.com, and use the Terminal for managing and publishing.
@@ -46,7 +50,7 @@ Enter a name ('setup-github') and a description. To create a new repository you 
 
 In the top menu, you now have to click <span class='tab'>Publish repository</span>. In the window that opens, un-check <span class='textbox'>Keep this code private</span>, and click <span class='button'>Publish Repository</span>. By default the <span class='tab'>Branch</span> tab in the top menu will say 'master'.
 
-If you check your online GitHub.com account, your new repository should appear after a few minutes. You might need to refresh your web pages to see it
+If you check your online GitHub.com account, your new repository should appear after a few minutes. You need to refresh your web pages to see it
 
 ### Create a branch
 
@@ -248,6 +252,8 @@ If you want to see the files used for building this blog, the [completed reposit
 
 [How to Upload Jekyll to Github Page](https://www.hongkiat.com/blog/jekyll-github-pages/) by Thoriq Firdaus
 
-[This blog on GitHub.com](https://github.com/thomasgumbricht/setup-github/tree/gh-pages)
+[This blog repository on GitHub.com](https://github.com/thomasgumbricht/setup-github/tree/gh-pages)
 
-[Set up blog tools: Jekyll and Atom](/setup-blog/2017/12/21/setup-blog-tools.html) my previous blog
+[Setup blog tools: Jekyll and Atom](/setup-blog/2017/12/21/setup-blog-tools.html) my previous blog
+
+[Setup Jekyll Theme blog](https://karttur.github.io/setup-theme-blog/index.html) my next blog
