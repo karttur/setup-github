@@ -46,7 +46,7 @@ In the <span class='app'>GitHub desktop.app</span> go via the menu:
 
 <span class='menu'>File : New Repository</span>
 
-Enter a name ('setup-github') and a description. To create a new repository you have to enter a <span class='textbox'>Local Path</span> in the text box, if you create the path using the <span class='button'>Choose</span> button, <span class='app'>GitHub desktop.app</span> will treat it as an existing local repository to Add (rather than Create). You can leave <span class='textbox'>Git Ignore</span> and <span class='textbox'>License</span> to None. Click <span class='button'>Create Repository</span>.
+Enter a name ('setup-github') and a description. To create a new repository you have to enter a <span class='textbox'>Local Path</span> in the text box, if you create the path using the <span class='button'>Choose</span> button, <span class='app'>GitHub desktop.app</span> will treat it as an existing local repository to Add (rather than Create). You can leave Git Ignore and License to <span class='textbox'>None</span>. Click <span class='button'>Create Repository</span>.
 
 In the top menu, you now have to click <span class='tab'>Publish repository</span>. In the window that opens, un-check <span class='textbox'>Keep this code private</span>, and click <span class='button'>Publish Repository</span>. By default the <span class='tab'>Branch</span> tab in the top menu will say 'master'.
 
